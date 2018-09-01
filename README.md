@@ -1,2 +1,2 @@
-# soldadura-simulacion
-Simulación soldadura electrica
+# __Soldadura__  
+Simulación de soldadura electrica
