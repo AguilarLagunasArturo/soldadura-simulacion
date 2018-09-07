@@ -38,7 +38,7 @@ void setup() {
 
   // Variables importantes
   max = 20;                             // Voltage maximo
-  update = 100;                          // Frecuencia de actualizacion
+  update = 10;                          // Frecuencia de actualizacion
   x_margin = 50;                        // Margen en x
   y_margin = 50;                        // Margen en y
   max_x_points = width - (x_margin*2) +1;  // Puntos permitidos a graficar en tiempo real
